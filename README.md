@@ -15,3 +15,4 @@ Topics covered:
     5) Select * from _ where
     6) Select * from _ where _ like
     7) Select * from _ where _between
+    8) Select distinct

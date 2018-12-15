@@ -12,5 +12,6 @@ Topics covered:
     2) Drop table
     3) Insert into
     4) Select *
-    5) Select * where
-    6) Select * where ... between
+    5) Select * from _ where
+    6) Select * from _ where _ like
+    7) Select * from _ where _between

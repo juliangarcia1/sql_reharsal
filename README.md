@@ -16,3 +16,4 @@ Topics covered:
     6) Select * from _ where _ like
     7) Select * from _ where _between
     8) Select distinct
+    9) Select where _ group by _ order by

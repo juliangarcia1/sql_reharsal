@@ -5,6 +5,9 @@ This exercises are performed with sqlite and
 using a live execution tool in vscode plugin SQLITE v0.3.2.
 * Requirements:
     * SQLITE
+Tables were imported/copied from [W3Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+
+    * Note: for converting then hmlt table to SQL [BeautifyTools](http://beautifytools.com/html-to-sql-converter.php) were used
 
 Topics covered:
 1) BASICS.SQL

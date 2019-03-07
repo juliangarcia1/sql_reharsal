@@ -1,5 +1,5 @@
 /* CREATE TABLE */
-CREATE TABLE table_name(
+CREATE TABLE CUSTOMERS(
 customerid DOUBLE,
 customername VARCHAR(100),
 contactname VARCHAR(100),
